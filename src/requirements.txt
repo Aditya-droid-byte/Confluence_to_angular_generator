@@ -1,0 +1,5 @@
+requests
+beautifulsoup4
+torch  # PyTorch for running LLaMA
+transformers  # Hugging Face library for models
+openai  # Optional, if you want to switch between OpenAI and LLaMA
